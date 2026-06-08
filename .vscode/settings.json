@@ -1,0 +1,10 @@
+{
+    "editor.rulers": [
+        80,
+        100
+    ],
+    "editor.tabSize": 2,
+    "trailing-spaces.trimOnSave": true,
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true
+  }

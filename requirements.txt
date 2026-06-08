@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+lxml
+pyyaml
+pytest
+setuptools 
+wheel
+pyyaml
+lxml
+
+
+# Jupyter Notebook environment
+jupyter
+ipykernel
